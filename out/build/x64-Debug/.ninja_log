@@ -1,0 +1,8 @@
+# ninja log v6
+251	989	8025312960214728	CMakeFiles/Airgead_Banking_App.dir/investment_calculator.cpp.obj	566f7f844da54721
+27	4293	8041640922851148	CMakeFiles/Airgead_Banking_App.dir/Data/DataInput/data_input.cpp.obj	50c5eb064f2779d1
+50	4298	8041640923091150	CMakeFiles/Airgead_Banking_App.dir/Data/DataOutput/data_output.cpp.obj	3657b7263ab58602
+37	4308	8041640922961145	CMakeFiles/Airgead_Banking_App.dir/InvestmentCalculator/investment_calculator.cpp.obj	bcb98a1ab249ff5a
+15	4304	8041640922741118	CMakeFiles/Airgead_Banking_App.dir/main.cpp.obj	93d10cd5d1347542
+4309	5243	8041640965671922	Airgead_Banking_App.exe	5ca4000d3951bae5
+9	28	8041640922201120	clean	1a4375d83a594a77

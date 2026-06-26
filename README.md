@@ -6,7 +6,9 @@ A C++ command-line investment calculator showcasing core OOP principles and prec
 
 Summarize the project and what problem it was solving.
 
+
 What did you do particularly well?
+
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
